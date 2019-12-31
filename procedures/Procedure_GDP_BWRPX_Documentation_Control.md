@@ -29,3 +29,5 @@ Role 1 |  What do they do? | Anyone
 
 
 ## Training
+
+[QEAIC]: /procedures/Document_QEAIC_Glossary.md
